@@ -1,33 +1,49 @@
-# Todo-List
+# Todo App ✅
 
-A simple Todo application built with React and TypeScript. This app allows users to add, complete, and delete tasks. It provides a minimalistic interface to manage your to-do list efficiently.
+Welcome to the Todo App! This application helps you stay organized and manage your tasks effectively.
 
-## Features
+TaskMaster
+<img width="1440" alt="Screen Shot 2023-05-27 at 10 48 30 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/7d948166-a271-401e-823b-fa6d4b5ff191">
+<img width="1440" alt="Screen Shot 2023-05-27 at 10 48 41 PM" src="https://github.com/Fernandoleano/Todo-App-TS/assets/68082556/79a8ecb8-69cf-456e-9d08-4dddd832ccbf">
 
-- **Add Todos:** Enter a new task and click "Add" to add it to your list.
-- **Toggle Completion:** Mark tasks as completed or uncompleted.
-- **Delete Todos:** Remove tasks from your list.
-- **Task Summary:** Displays the total number of todos and the number of completed todos.
 
-## Components
+## Features 🚀
 
-- **TodoApp:** Main component that manages the state and renders the UI.
+- Add new todos ➕
+- Mark todos as completed ✅
+- Delete todos ❌
+- Responsive design for mobile and desktop 📱💻
 
-## Installation
+## Demo 🎥
 
-To get started with this project, follow these steps:
+Check out the live demo of the Todo App [here](https://todo-app-ts-three.vercel.app/). Feel free to play around with it and see how it works!
 
-1. **Clone the Repository:**
+## Installation ⚙️
 
-   ```bash
-   git clone https://github.com/your-username/todo-app.git
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd hangman-game
+To run the Todo App locally, follow these steps:
 
-3. ***Install Dependencies:***
-   ```bash
-   npm install
-4. ***Start the Development Server:***
-   ```bash
-   npm run dev
+1. Clone the repository:
+
+2. Install the dependencies:
+
+3. Start the development server:
+
+4. Open your browser and navigate to `http://localhost:3000` to access the Todo App.
+
+
+4. Open your browser and navigate to `http://localhost:3000` to access the Todo App.
+
+## Technologies Used 🛠️
+
+- TypeScript 🟦
+- React ⚛️
+- Tailwind CSS 🌈
+
+## Feedback 📝
+
+If you have any feedback or suggestions for improvement, please feel free to open an issue on the [GitHub repository](https://github.com/fernandoleano/todo-app). Your feedback is highly appreciated!
+
+## License 📄
+
+This project is licensed under the [MIT License](LICENSE).
+
